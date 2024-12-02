@@ -1,6 +1,6 @@
 ---
-description: Discover and download free HD and 4K wallpapers for all devices at Wallpaper.cyou. Stunning collection for your desktop, phone, or tablet.
-title: Free HD Wallpaper Downloads
+description: Discover and download free HD and 4K wallpapers anime for all devices at animewall. Stunning collection for your desktop, phone, or tablet.
+title: Anime HD Wallpaper Downloads
 resources:
   - src: default-home-cover.jpg
     params:

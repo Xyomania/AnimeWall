@@ -1,42 +1,42 @@
-baseURL = "https://wallpaper.cyou/"
+baseURL = "https://animewall.my.id/"
 languageCode = "en-us"
-title = "Free HD Wallpaper Downloads - Wallpaper.cyou"
+title = "animewall.my.id"
 theme = "hugo-theme-gallery"
 
 # SEO Meta Information
 [params]
-  description = "Free HD wallpaper for download. Explore stunning 4K and HD wallpapers on Wallpaper.cyou."
-  search_description = "Discover and download free HD and 4K wallpapers for all devices at Wallpaper.cyou."
-  keywords = ["wallpaper", "wallpapers", "8k wallpaper", "4k wallpaper", "phone wallpaper", "HD wallpaper", "free wallpaper", "download wallpaper", "wallpaper.cyou"]
+  description = "Discover and download free HD and 4K wallpapers anime for all devices at animewall. Stunning collection for your phone"
+  search_description = "Discover and download free HD wallpapers anime for your devices at animewall. Stunning collection for your android or iphone."
+  keywords = ["wallpaper", "wallpapers", "anime wallpaper", "android wallpaper", "phone wallpaper", "iphone wallpaper", "hd wallpaper", "download wallpaper", "animewall.my.id"]
   ogImage = "/images/default-og-image.jpg"
   [author]
-    name = "Wallpaper Cyou"
-    twitter = "@WallpaperCyou"
-    copyright = "© 2024 Wallpaper.cyou"
+    name = "animewall"
+    twitter = "@animewall"
+    copyright = "© 2024 animewall.my.id"
     language = "English"
 
 # Open Graph / Social Media Meta Tags
 [params.social]
   twitter_card = "summary_large_image"
-  twitter_creator = "@wallpapercyou"
-  twitter_site = "@wallpapercyou"
-  og_title = "Free HD Wallpaper Downloads - Wallpaper.cyou"
-  og_description = "Free HD wallpaper for download. Explore stunning 4K and HD wallpapers on Wallpaper.cyou."
+  twitter_creator = "@animewall"
+  twitter_site = "@animewall"
+  og_title = "animewall"
+  og_description = "Discover and download free HD and 4K wallpapers anime for all devices at animewall. Stunning collection for your phone"
   og_image = "/images/default-og-image.jpg"
-  og_url = "https://wallpaper.cyou/"
+  og_url = "https://animewall.my.id/"
 
 # SEO Schema Markup
 [params.schema]
   type = "WebSite"
-  name = "Wallpaper.cyou"
-  url = "https://wallpaper.cyou/"
+  name = "animewall.my.id"
+  url = "https://animewall.my.id/"
   image = "/images/default-og-image.jpg"
-  description = "Free HD wallpaper for download. Explore stunning 4K and HD wallpapers on Wallpaper.cyou."
-  keywords = ["wallpaper", "wallpapers", "HD wallpaper", "4k wallpaper", "phone wallpaper"]
+  description = "Discover and download free HD and 4K wallpapers anime for all devices at animewall. Stunning collection for your phone"
+  keywords = ["wallpaper", "wallpapers", "anime wallpaper", "android wallpaper", "phone wallpaper", "iphone wallpaper", "hd wallpaper", "download wallpaper", "animewall.my.id"]
 
 # Google Analytics (Optional)
 [params.googleAnalytics]
-  trackingID = "G-VRHG2FF2GG"
+  trackingID = ""
 
 [module]
   [[module.imports]]

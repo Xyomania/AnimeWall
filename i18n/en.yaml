@@ -6,12 +6,12 @@ closeTitle: Close
 zoomTitle: Zoom
 arrowPrevTitle: Previous
 arrowNextTitle: Next
-errorMsg: The photo cannot be loaded
+errorMsg: The wallpaper cannot be loaded
 downloadTitle: Download
-relatedAlbums: Related albums
+relatedAlbums: Related collections
 photoCount:
-  one: 1 photo
-  other: "{{ . }} photos"
+  one: 1 wallpaper
+  other: "{{ . }} wallpapers"
 albumCount:
-  one: "{{ .photoCount }} in {{ .count }} album"
-  other: "{{ .photoCount }} in {{ .count }} albums"
+  one: "{{ .photoCount }} in {{ .count }} collection"
+  other: "{{ .photoCount }} in {{ .count }} collections"
